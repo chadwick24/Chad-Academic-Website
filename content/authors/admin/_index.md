@@ -1,6 +1,6 @@
 ---
 organizations:
-- name: University of Cincinnati
+- name: University of Cincinnatii
   url: https://business.uc.edu/
 role: PhD Candidate in Financial Economics
 social:
