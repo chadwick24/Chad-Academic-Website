@@ -2,9 +2,11 @@
 
 
 ---
-title: "Executive Overconfidence, Gender, and Firm Innovation"
+title: "Tweets from the Top: An Analysis of Twitter Behavior Among Overconfident CEOs"
 authors:
 - Chad Dulle
+- Colin Campbell
+- Shradha Bindal 
 date: "2023-04-22"
 type: research
 abstract:

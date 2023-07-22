@@ -2,8 +2,7 @@
 
 
 ---
-title: "Executive Gender and Overconfidence: The Effect on Mergers and 
-Acquisitions"
+title: "Executive Gender and Overconfidence: The Effect on Mergers and Acquisitions"
 authors:
 - Chad Dulle
 # - Coauthor One
