@@ -6,8 +6,17 @@ date: "2023-05-08"
 ---
 
 <small>
-The objective of this course is to describe in detail what financial markets are and how financial institutions operate within them. In doing so, we will learn how financial markets and institutions shape the broader economy. Students will be introduced to the theory, structure, management, and regulation of financial institutions. We will be particularly interested in understanding the interest rate - the economic factors that influence the interest rate, the economic factors that are influenced by the interest rate, and what that means for the economy. In addition, we will learn about the role and effects of government regulation on financial markets, and the risks financial institutions face. By focusing on how and why financial markets and institutions exist, and what financial institutions do, students will also gain insight into the evolution of the industry and a better understanding of how financial institutions promote economic development and efficiency.
+In this core finance course, we explore the fundamental principles of finance, focusing on the key concepts of the time value of money and the risk-return tradeoff. This 'tools' course equips you with the necessary skills to analyze a wide variety of financial decisions. We place a significant emphasis on learning how to think systematically about financial valuation and how to apply these insights to a range of business (e.g., capital budgeting decisions) and personal (e.g., retirement planning, automobile and mortgage loans) financial problems.
+
+Throughout the course, we:
+
+- Delve into the various types of financial management decisions and study the pivotal role of a financial manager within a firm
+- Investigate financial statements, calculate and interpret key ratios to gain a deep understanding of financial health
+- Unravel the complexities of the time value of money and use this vital technique to make informed decisions across personal and business contexts
+- Evaluate financial assets and cultivate the skills required to accurately value these resources
+- Scrutinize potential investment opportunities and assess their feasibility for capital budgeting purposes
 </small>
+
 
 
 <!-- Put your Kaltura iframe code here -->
