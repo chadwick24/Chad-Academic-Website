@@ -1,20 +1,20 @@
 
 
 ---
-title: "Blockchain Technology and Cryptocurrency"
+title: "Unpacking Blockchain and Cryptocurrency: A Seminar Series for Finance Researchers"
 date: "2023-05-08"
 ---
 
 <small>
-In this core finance course, we explore the fundamental principles of finance, focusing on the key concepts of the time value of money and the risk-return tradeoff. This 'tools' course equips you with the necessary skills to analyze a wide variety of financial decisions. We place a significant emphasis on learning how to think systematically about financial valuation and how to apply these insights to a range of business (e.g., capital budgeting decisions) and personal (e.g., retirement planning, automobile and mortgage loans) financial problems.
+In an ever-evolving digital economy, blockchain technology and cryptocurrencies present profound implications for the field of finance. This seminar series aims to illuminate the mechanics and potential impact of these disruptive technologies, providing finance researchers with the knowledge to explore their potential applications and research opportunities.
 
-Throughout the course, we:
+In this series, we will lay the foundation by covering the fundamentals of blockchain technology, such as digital signatures, one-way encryption, and hash functions. Attendees will gain hands-on experience with a blockchain simulator to grasp mining and the Proof of Work consensus mechanism.
 
-- Delve into the various types of financial management decisions and study the pivotal role of a financial manager within a firm
-- Investigate financial statements, calculate and interpret key ratios to gain a deep understanding of financial health
-- Unravel the complexities of the time value of money and use this vital technique to make informed decisions across personal and business contexts
-- Evaluate financial assets and cultivate the skills required to accurately value these resources
-- Scrutinize potential investment opportunities and assess their feasibility for capital budgeting purposes
+We will then delve into the economic perspectives of Bitcoin and Ethereum, assessing their value, understanding their criticisms, and exploring their unique economic implications. This will include a comparative analysis of Proof of Work and Proof of Stake consensus mechanisms, along with their economic pros and cons.
+
+The series will conclude with a comprehensive review and discussion of the existing academic literature published in premier finance journals. The goal is to identify gaps and inspire future research avenues in the field of blockchain and cryptocurrencies.
+
+This seminar series invites finance PhDs to delve into the world of blockchain and cryptocurrency, aiming to stimulate insightful discussions and generate innovative research ideas for the future.
 </small>
 
 # Topics Covered
