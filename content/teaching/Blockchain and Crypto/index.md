@@ -1,7 +1,7 @@
 
 
 ---
-title: "Business Finance"
+title: "Blockchain Technology and Cryptocurrency"
 date: "2023-05-08"
 ---
 
@@ -16,17 +16,6 @@ Throughout the course, we:
 - Evaluate financial assets and cultivate the skills required to accurately value these resources
 - Scrutinize potential investment opportunities and assess their feasibility for capital budgeting purposes
 </small>
-
-
-
-<!-- Put your Kaltura iframe code here -->
-<div class="video-container">
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1492301/sp/149230100/embedIframeJs/uiconf_id/49148882/partner_id/1492301?iframeembed=true&playerId=kaltura_player&entry_id=1_gwn96tmf&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_y4pw04c5" width="768" height="738" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Introduction"></iframe>
-</div>
-
-
-<!-- {{< video src="/videos/vid1.mp4" format="mp4" >}} --> 
-
 
 # Topics Covered
 
