@@ -6,7 +6,7 @@ date: "2023-08-21"
 ---
 
 <small>
-The objective of this seminar series is to introduce 
+The objective of this seminar series is to introduce the concept of blockchain
 from the perspective of a PhD researcher 
 </small>
 
