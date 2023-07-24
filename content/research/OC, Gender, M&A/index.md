@@ -25,4 +25,4 @@ simply a proxy for overconfidence and both gender and behavioral characteristics
 must be considered.
 
 
-[![Download PDF](https://cdn.icon-icons.com/icons2/727/PNG/32/download_pdf_icon-icons.com_66548.png)](/paper1.pdf)
+<a href="/paper1.pdf"><i class="fas fa-file-pdf"></i> Download PDF</a>
