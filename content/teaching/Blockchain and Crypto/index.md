@@ -86,6 +86,7 @@ By the end of this session, participants will have a comprehensive understanding
 
 #### Deciphering Blockchain and Cryptocurrency Literature: A Review and Discussion
 
+<small>
 In the final seminar of this series, we will delve into the academic literature on blockchain and cryptocurrency published in top-tier finance journals. This session aims to provide attendees with a holistic understanding of the current state of research in the field, thereby sparking ideas for new research avenues.
 
 - Review of Relevant Literature: We will explore a range of studies from leading finance journals. The review will cover diverse topics such as blockchain technology, cryptocurrency valuation, consensus mechanisms, regulation, and more.
@@ -95,3 +96,4 @@ In the final seminar of this series, we will delve into the academic literature 
 - Identifying Future Research Opportunities: Finally, we will brainstorm potential research topics based on the gaps identified in the current literature. This will enable participants to conceptualize and plan their own research in the dynamic field of blockchain and cryptocurrencies.
 
 By the end of this seminar, participants will have a thorough understanding of the current state of academic research in the field of blockchain and cryptocurrencies and be well-equipped to embark on their own research journeys.
+</small>
