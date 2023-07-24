@@ -8,11 +8,7 @@ date: "2023-05-08"
 <small>
 In an ever-evolving digital economy, blockchain technology and cryptocurrencies present profound implications for the field of finance. This seminar series aims to illuminate the mechanics and potential impact of these disruptive technologies, providing finance researchers with the knowledge to explore their potential applications and research opportunities.
 
-In this series, we will lay the foundation by covering the fundamentals of blockchain technology, such as digital signatures, one-way encryption, and hash functions. Attendees will gain hands-on experience with a blockchain simulator to grasp mining and the Proof of Work consensus mechanism.
-
-We will then delve into the economic perspectives of Bitcoin and Ethereum, assessing their value, understanding their criticisms, and exploring their unique economic implications. This will include a comparative analysis of Proof of Work and Proof of Stake consensus mechanisms, along with their economic pros and cons.
-
-The series will conclude with a comprehensive review and discussion of the existing academic literature published in premier finance journals. The goal is to identify gaps and inspire future research avenues in the field of blockchain and cryptocurrencies.
+In this series, we will lay the foundation by covering the fundamentals of blockchain technology, such as digital signatures, one-way encryption, and hash functions. Attendees will gain hands-on experience with a blockchain simulator to grasp mining and the Proof of Work consensus mechanism. We will then delve into the economic perspectives of Bitcoin and Ethereum, assessing their value, understanding their criticisms, and exploring their unique economic implications. This will include a comparative analysis of Proof of Work and Proof of Stake consensus mechanisms, along with their economic pros and cons.The series will conclude with a comprehensive review and discussion of the existing academic literature published in premier finance journals. The goal is to identify gaps and inspire future research avenues in the field of blockchain and cryptocurrencies.
 
 This seminar series invites finance PhDs to delve into the world of blockchain and cryptocurrency, aiming to stimulate insightful discussions and generate innovative research ideas for the future.
 </small>
