@@ -1,15 +1,13 @@
 ---
-title: "Coin Gecko API"
+title: "Accessing Coin Gecko's API"
 author: "Chad Dulle"
 date: "2023-04-24"
-type: "page"
-summary: "Access Coingecko.com's API."
 output: html_document
 ---
-Here I will give some simple examples of using Coin Gecko's API to access market data for the broad cross-section of cryptocurrencies and tokens from various blockchains.
+Here I will give some simple examples of using Coin Gecko's API to access market data for the broad cross-section of cryptocurrencies and tokens from various blockchains. Coin Gecko offers a basic subscription that is free to use for everyone interested in learning more about cryptocurrency data
 
 ### Load Packages
-```{r warning=FALSE, message=FALSE}
+```{r warning=FALSE, message=FALSE,eval=FALSE}
 # Load Packages
 library(tidyverse)
 library(httr)
@@ -19,13 +17,13 @@ library(glue)
 
 ### A Basic GET Call
 Set the generic URL that can be used in conjunction with any of Coin Gecko's endpoints to make a GET call. In lamen's terms, a GET call is your computer asking the API to grant you access to a particular dataset (i.e. an "endpoint").
-```{r}
+```{r,eval=FALSE}
 # Base URL
 base <- 'https://api.coingecko.com/api/v3/'
 ```
 
 We will use this as a simple example of a single GET call. For this endpoint (coins/list), we will be getting every cryptocurrency/token that is available on CoinGecko's API
-```{r get assets}
+```{r get assets,eval=FALSE}
 ##### List all assets #####  
 
   # set endpoint
@@ -46,7 +44,7 @@ We will use this as a simple example of a single GET call. For this endpoint (co
 Each API has limits on the data you can retrieve for a single GET call, as well as limits on the number of GET calls you can push to the API in a given timeframe. For example, depending on your account with CoinGecko, you may be able to send somewhere between 10-50 GET calls per minute. For this reason, it is important to optimize the GET calls when getting data in bulk
 
 First, we will save a list of crypto IDs that will go into our GET calls. We will also save the beginning and ending for our endpoint
-```{r get historical}
+```{r get historical,eval=FALSE}
 ##### Loop to get all days historical data --> 1 request for 1 day of data #####
 
   # blank list

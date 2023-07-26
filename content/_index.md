@@ -39,7 +39,7 @@ sections:
     filters:
       folders:
       - codes and data
-    title: Codes and Data
+    title: Helpful Codes
   design:
     columns: "1"
   id: codes and data
