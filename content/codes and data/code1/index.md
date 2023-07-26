@@ -1,12 +1,10 @@
 ---
-title: "Coin Gecko API"
+title: "Accessing Coin Gecko's API for Cryptocurrency Market Data"
 author: "Chad Dulle"
-date: "2023-04-24"
-type: "page"
-summary: "Access Coingecko.com's API."
-output: html_document
+date: "2023-08-03"
 ---
-Here I will give some simple examples of using Coin Gecko's API to access market data for the broad cross-section of cryptocurrencies and tokens from various blockchains.
+
+Here I will give some simple examples of using Coin Gecko's API to access market data for the broad cross-section of cryptocurrencies and tokens from various blockchains. Coin Gecko offers a basic subscription that is free to use for everyone interested in learning more about cryptocurrency data
 
 ### Load Packages
 

@@ -1,5 +1,5 @@
 ---
-title: "Accessing Glassnode's API"
+title: "Accessing Glassnode's API for Cryptocurrency Metadata"
 author: "Chad Dulle"
 date: "2023-07-26"
 output: html_document
