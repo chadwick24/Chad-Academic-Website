@@ -66,10 +66,10 @@ First, we will save a list of crypto IDs that will go into our GET calls. We wil
   end <- '/market_chart?vs_currency=usd&days=4000&interval=daily' # notice 4,000 days which gives me more than 10 years
 ```
 
-Create a loop to optimize API request limits
-<small>
-p.s. I commented-out this code because it will take a very long time to run. You can run it piece-meal by adjusting the iterations of the outside loop
-</small>
+#### Create a loop to optimize API request limits
+
+
+p.s. I am only running one iteration of the outer loop. To run the full set, replace this with length(IDs). This will take a very long time to run 
 
 ```r
 ### Loop over all iterations of 30 IDs --> due to the request limit per minute ###
