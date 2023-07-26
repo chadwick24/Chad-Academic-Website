@@ -30,6 +30,14 @@ title: Chad Dulle
 cv_link: <a href="/files/myCV.pdf" target="_blank">View my CV here</a>
 
 ---
+<div style="text-align: justify">
 
-Hello, welcome to my website! My name is Chad Dulle, and I am a Ph.D. candidate in Finance at the University of Cincinnati. My primary research interests include behavioral corporate finance, social finance, and fintech. I am particularly interested in how social networks affect the adoption of cryptocurrency as a speculative asset.
-{style="text-align: justify;"}
+Hello, and welcome to my academic webpage! I am Chad Dulle, a PhD student in Finance at the University of Cincinnati. My primary research interests revolve around behavioral finance and corporate governance, with a specific emphasis on understanding how the personal characteristics of the firm's upper-management affect their decision-making and impact firm outcomes.
+
+I am also intensely curious about the burgeoning field of FinTech, particularly in the transformative potential of blockchain technology and cryptocurrency. I actively participate in the Bitcoin Blockchain and have had the opportunity to lead seminars enlightening finance faculty about these cutting-edge technologies. 
+
+Beyond my research, I am genuinely passionate about teaching. I believe in cultivating an environment that encourages curiosity, fosters critical thinking, and prepares students for the dynamic world of finance.
+
+Please feel free to explore my webpage for more detailed information about my research, teaching philosophy, and other interests. Thank you for your visit!
+
+</div>
