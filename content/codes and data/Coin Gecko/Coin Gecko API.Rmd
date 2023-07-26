@@ -1,12 +1,19 @@
 ---
-title: "Coin Gecko API"
+title: "Accessing Coin Gecko's API for Cryptocurrency Market Data"
 author: "Chad Dulle"
-date: "2023-07-26"
-output: html_document
+date: "2023-08-03"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+Here I will give some simple examples of using Coin Gecko's API to access market data for the broad cross-section of cryptocurrencies and tokens from various blockchains. Coin Gecko offers a basic subscription that is free to use for everyone interested in learning more about cryptocurrency data
+
+
+### Load Packages
+```{r warning=FALSE, message=FALSE,eval=FALSE}
+# Load Packages
+library(tidyverse)
+library(httr)
+library(jsonlite)
+library(glue)
 ```
 
 ## R Markdown
