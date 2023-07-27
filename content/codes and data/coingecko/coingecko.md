@@ -44,3 +44,25 @@ We will use this as a simple example of a single GET call. For this endpoint (co
   # vector of all asset IDs
   IDs <- df1$id
 ```
+
+### Optimizing API Limits to get Full Historical Data 
+
+Each API has limits on the data you can retrieve for a single GET call, as well as limits on the number of GET calls you can push to the API in a given timeframe. For example, depending on your account with CoinGecko, you may be able to send somewhere between 10-50 GET calls per minute. For this reason, it is important to optimize the GET calls when getting data in bulk
+
+First, we will save a list of crypto IDs that will go into our GET calls. We will also save the beginning and ending for our endpoint
+
+```r
+##### Loop to get all days historical data --> 1 request for 1 day of data #####
+
+  # blank list
+  l1 <- list()
+
+  # vector of all asset IDs
+  IDs <- df1$id
+
+  # start of endpoint
+  start <- 'https://api.coingecko.com/api/v3/coins/'
+
+  # end of endpoint
+  end <- '/market_chart?vs_currency=usd&days=4000&interval=daily' # notice 4,000 days which gives me more than 10 years
+```
