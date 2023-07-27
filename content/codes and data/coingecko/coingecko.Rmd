@@ -24,3 +24,20 @@ Set the generic URL that can be used in conjunction with any of Coin Gecko's end
 # Base URL
 base <- 'https://api.coingecko.com/api/v3/'
 ```
+
+We will use this as a simple example of a single GET call. For this endpoint (coins/list), we will be getting every cryptocurrency/token that is available on CoinGecko's API
+```{r get assets,eval=FALSE}
+##### List all assets #####  
+
+  # set endpoint
+  endpoint <- 'coins/list'
+
+  # GET call
+  get <- GET(glue(base,endpoint))
+  # prepare data
+  dat <- fromJSON(rawToChar(get$content))
+  # view data
+  df1 <- data.frame(name=dat$name,ticker=dat$symbol,id=dat$id)
+  # vector of all asset IDs
+  IDs <- df1$id
+```
