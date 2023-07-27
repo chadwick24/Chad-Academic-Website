@@ -1,5 +1,5 @@
 ---
-title: "Accessing Coin Gecko's API for cryptocurrency market data"
+title: "Accessing Coin Gecko's API for Cryptocurrency Market Data"
 author: "Chad Dulle"
 date: "2023-07-27"
 output: html_document
