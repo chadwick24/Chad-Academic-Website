@@ -66,3 +66,58 @@ First, we will save a list of crypto IDs that will go into our GET calls. We wil
   # end of endpoint
   end <- '/market_chart?vs_currency=usd&days=4000&interval=daily' # notice 4,000 days which gives me more than 10 years
 ```
+
+#### Create a loop to optimize API request limits
+
+
+p.s. I am only running one iteration of the outer loop. To run the full set, replace this with length(IDs). This will take a very long time to run 
+
+```r
+### Loop over all iterations of 30 IDs --> due to the request limit per minute ###
+
+    # create index of ID places (per 30 requests)
+      # number of iterations
+      x <- floor(length(IDs)/30) # 30 IDs per 1 request
+      # data frame of iterations and total IDs
+      iters <- data.frame(tot.IDs=1:(x*30),iter=rep(1:x,each=30)) # 30 IDs per 1 request
+
+  # run loop over all iterations (30 per)
+  for(j in 1:1){
+
+    # select which iteration you want to perform
+    index <- iters %>% filter(iter==j)
+
+    ### Loop over all IDs ###
+    for(n in ((min(index$tot.IDs)):(max(index$tot.IDs)))){ # can only make 50 requests per minute
+
+      # repeat this GET call until you don't get a status 429
+      repeat{
+      # GET call
+      get <- GET(glue(start,IDs[n],end))
+
+        # there are rate limits for GET calls for every API service. The best way to deal with this constraint is
+        # to simply get for a `429` error which signifies that you have reached the limit. Simply wait a minute and try again
+        if(get$status_code==429){
+          Sys.sleep(60)
+        }
+        # if you get a successful status code (200), then break
+        if(get$status_code==200){
+          break
+        }
+      }
+      # notice each call is in USD, 10 years of data (3,650 days), and daily frequency
+      # prepare data
+      dat <- fromJSON(rawToChar(get$content))
+      # save
+      l1[[n]] <- data.frame(unix=as.POSIXct(dat$prices[,1]/1000,origin = '1970-01-01'),price=dat$prices[,2],
+                            mkt.cap=dat$market_caps[,2],vol=dat$total_volumes[,2]) %>% try()
+      # save name of crypto
+      l1[[n]]$name <- IDs[n]
+
+    } # end first loop
+  }
+
+
+# Export data before you lose it (piece meal)
+df.out <- do.call(rbind,l1)
+```
