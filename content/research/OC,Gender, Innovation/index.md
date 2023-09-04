@@ -6,8 +6,9 @@ title: "Drivers of Firm Innovation: The Role of Overconfidence and Gender in the
 authors:
 - Chad Dulle
 date: "2023-09-04"
+weight: 2
 type: research
-abstract:
+abstract: 
 link: "/paper2.pdf"
 ---
 

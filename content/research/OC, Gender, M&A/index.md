@@ -8,6 +8,7 @@ authors:
 # - Coauthor One
 # - Coauthor Two
 date: "2023-04-22"
+weight: 1
 type: research
 abstract:
 link: "/paper1.pdf"
