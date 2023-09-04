@@ -7,12 +7,14 @@ authors:
 - Chad Dulle
 # - Coauthor One
 # - Coauthor Two
-date: "2023-04-22"
+date: "2023-09-04"
 weight: 1
 type: research
 abstract:
 link: "/paper1.pdf"
 ---
+
+<a href="/paper1.pdf"><i class="fas fa-file-pdf"></i> Download PDF</a>
 
 Existing research documents significant gender and overconfidence effects in the merger and 
 acquisition (M&A) decisions of firms. Namely, firms with female leadership tend to be less 
@@ -26,4 +28,3 @@ simply a proxy for overconfidence and both gender and behavioral characteristics
 must be considered.
 
 
-<a href="/paper1.pdf"><i class="fas fa-file-pdf"></i> Download PDF</a>
