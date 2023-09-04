@@ -1,3 +1,6 @@
+
+
+
 ---
 organizations:
 - name: University of Cincinnati
@@ -7,6 +10,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: /myCV.pdf
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:dullecd@mail.uc.edu'
 - icon: graduation-cap
   icon_pack: fas
   link: https://business.uc.edu/faculty-and-research/departments/finance/research/phd-students/chadwick-dulle.html
@@ -38,6 +44,9 @@ I am also intensely curious about the burgeoning field of FinTech, particularly 
 
 Beyond my research, I am genuinely passionate about teaching. I believe in cultivating an environment that encourages curiosity, fosters critical thinking, and prepares students for the dynamic world of finance.
 
-Please feel free to explore my webpage for more detailed information about my research, teaching philosophy, and other interests. Thank you for your visit!
+Please feel free to explore my webpage for more detailed information about my research, teaching philosophy, and other interests. If you have questions, feel free to send me an email (dullecd@mail.uc.edu). Thank you for your visit!
+
+<!-- this is how you comment out the code below, which adds an email link --> 
+<!-- <strong>Email: <a href="mailto:dullecd@mail.uc.edu">dullecd@mail.uc.edu</a></strong> --> 
 
 </div>
