@@ -66,7 +66,6 @@ First, we will save a list of crypto IDs that will go into our GET calls. We wil
 
 #### Create a loop to optimize API request limits
 
-
 p.s. I am only running one iteration of the outer loop. To run the full set, replace this with length(IDs). This will take a very long time to run 
 ```{r get historical loop,eval=FALSE}
 
