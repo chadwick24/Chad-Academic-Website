@@ -4,10 +4,12 @@ author: "Chad Dulle"
 date: "2023-07-26"
 output: html_document
 ---
-The primary purpose of this file is to preview some of the data available via Glassnode's API. Although this requires a paid subscription, Glassnode's API offer the most expansive set of endpoints that I have seen accross all cryptocurrency API services that I have interacted with. Let's take a look at what they have to offer
+The primary purpose of this file is to preview some of the data available via Glassnode's API. Although this requires a paid subscription, Glassnode's API offer the most expansive set of endpoints that I have seen accross all cryptocurrency API services that I have interacted with. Let's take a look at what they have to offer. 
+
+*** _Please include a citation if you use this code for a research project._ ***
 
 <small>
-please note that this code will not run on it's own. You will need your own Glassnode API key. However, this will explore the entire suite of endpoints and compile summary stats which can be useful getting to know the data
+Note that this code will not run on it's own. You will need your own Glassnode API key. However, this will explore the entire suite of endpoints and compile summary stats which can be useful getting to know the data
 </small>
 
 

@@ -7,6 +7,8 @@ date: "2023-07-20"
 #### Purpose
 Within this file, I share useful code for web scraping Reddit data. This includes keyword searching for subreddits, as well as extracting content from specific subreddit communities. Utilizing this data can enhance your research, allowing for a deeper dive into Social Network/Social Media analysis and market sentiment analysis. A prominent example of Reddit influencing the economic zeitgeist is the r/wallstreetbets community. Harness this code to explore such intriguing intersections of social media and economics.
 
+*** _Please include a citation if you use this code for a research project._ ***
+
 #### Example: Bitcoin 
 Reddit is a very large platform with many users and subreddits. To motivate the usefullness of this file, I will scrape "bitcoin" mentions from the Reddit social media platfrom.
 

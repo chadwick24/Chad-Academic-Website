@@ -7,6 +7,8 @@ output: html_document
 
 Here I will give some simple examples of using Coin Gecko's API to access market data for the broad cross-section of cryptocurrencies and tokens from various blockchains. Coin Gecko offers a basic subscription that is free to use for everyone interested in learning more about cryptocurrency data
 
+*** _Please include a citation if you use this code for a research project._ ***
+
 ### Load Packages
 
 ```r
