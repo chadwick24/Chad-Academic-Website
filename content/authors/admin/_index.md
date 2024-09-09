@@ -38,11 +38,11 @@ cv_link: <a href="/files/myCV.pdf" target="_blank">View my CV here</a>
 ---
 <div style="text-align: justify">
 
-Hello, and welcome to my academic webpage! I am Chad Dulle, a PhD student in Finance at the University of Cincinnati. My primary research interests revolve around behavioral finance and corporate governance, with a specific emphasis on understanding how the personal characteristics of the firm's upper-management affect their decision-making and impact firm outcomes.
+Welcome to my academic webpage! I’m Chad Dulle, a PhD candidate in Finance at the University of Cincinnati. I’m passionate about finance and economics—I love exploring new research questions, discussing the latest trends in financial markets with friends, and engaging in debates about the world of finance. I’m also a big fan of cryptocurrency and its potential. Outside of work, I enjoy playing musical instruments, though with 1-year-old twins, Mia and Micah, I don’t get much spare time! While I love my work, nothing compares to the joy of being a dad.
 
-I am also intensely curious about the burgeoning field of FinTech, particularly in the transformative potential of blockchain technology and cryptocurrency. I actively participate in the Bitcoin Blockchain and have had the opportunity to lead seminars enlightening finance faculty about these cutting-edge technologies. 
+My research focuses on the intersection of Corporate Governance, Behavioral Finance, and Fintech. I take an innovative approach, using new data and methods to study how executive traits shape critical firm decisions, including mergers and acquisitions, innovation, disclosure policy, and public communication strategies. For example, in my job market paper, "Tweets from the Top: How Overconfident CEOs Behave on Twitter," I investigate how CEO overconfidence impacts firms' use of social media, revealing how executive traits influence firm outcomes in unexpected ways. I also explore how social media and cryptocurrency markets affect firm behavior, blending traditional finance perspectives with emerging fintech trends.
 
-Beyond my research, I am genuinely passionate about teaching. I believe in cultivating an environment that encourages curiosity, fosters critical thinking, and prepares students for the dynamic world of finance.
+Beyond my research, I am genuinely passionate about teaching. As a teacher, I am committed to fostering curiosity and critical thinking in the classroom. I strive to help students understand not just the fundamentals of finance but also how to apply these principles in real-world scenarios. Whether through vigorous class discussions or practical examples, my goal is to prepare students for the dynamic and evolving world of finance.
 
 Please feel free to explore my webpage for more detailed information about my research, teaching philosophy, and other interests. If you have questions, feel free to send me an email (dullecd@mail.uc.edu). Thank you for your visit!
 
