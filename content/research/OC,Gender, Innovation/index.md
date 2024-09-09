@@ -2,7 +2,7 @@
 
 
 ---
-title: "•	Tweets from the Top: CEO Overconfidence and Twitter Behavior"
+title: "Tweets from the Top: CEO Overconfidence and Twitter Behavior"
 authors:
 - Chad Dulle
 date: "2024-09-04"
