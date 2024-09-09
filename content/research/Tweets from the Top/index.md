@@ -6,7 +6,7 @@ title: "Tweets from the Top: CEO Overconfidence and Twitter Behavior"
 authors:
 - Chad Dulle
 date: "2024-09-04"
-weight: 2
+weight: 1
 type: research
 abstract: 
 link: "/paper2.pdf"
