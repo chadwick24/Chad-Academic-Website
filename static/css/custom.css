@@ -1,0 +1,6 @@
+#research {
+    background-image: url('/images/lindner.jpg'); /* Path to your image */
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0; /* Optional: Adds some padding to the section */
+}

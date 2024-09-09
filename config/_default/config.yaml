@@ -79,5 +79,7 @@ minify:
   
   
 ##### My Edits #####
-  
+
+params:
+  custom_css: ["css/custom.css"]
 
