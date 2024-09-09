@@ -2,12 +2,12 @@
 
 
 ---
-title: "Executive Gender and Overconfidence: The Effect on Mergers and Acquisitions"
+title: "Executive Overconfidence and Gender: The Effect on Firm Risk-Taking"
 authors:
 - Chad Dulle
 # - Coauthor One
 # - Coauthor Two
-date: "2023-09-04"
+date: "2024-09-04"
 weight: 1
 type: research
 abstract:
@@ -16,15 +16,6 @@ link: "/paper1.pdf"
 
 <a href="/paper1.pdf"><i class="fas fa-file-pdf"></i> Download PDF</a>
 
-Existing research documents significant gender and overconfidence effects in the merger and 
-acquisition (M&A) decisions of firms. Namely, firms with female leadership tend to be less 
-acquisitive, while firms with overconfident executives are more acquisitive. What is less clear is how 
-these personal characteristics interact. To understand the underlying dynamics, I examine the 
-interplay between these two effects. I find that non-overconfident female executives drive the 
-negative gender effect on M&A activity. By contrast, overconfident female executives behave 
-similarly to non-overconfident male executives. This suggests that when studying how executive 
-characteristics affect corporate decision-making, we need a more holistic approach: Gender is not 
-simply a proxy for overconfidence and both gender and behavioral characteristics of the executive 
-must be considered.
+I study the combined influence of two executive personal characteristics, overconfidence and gender, in two important yet meaningfully distinct contexts: investments in external (M&A) and internal (innovation) risky projects. I find that both the combined treatment of these executive characteristics and the context play a meaningful role in our understanding of executive decision-making. Lower investment in M&A deals by female executives is driven entirely by non-overconfident executives; overconfident female executives do not differ materially from their male counterparts. On the other hand, overconfidence plays a stronger and more pervasive role for female executives in encouraging innovation: overconfident female executives are more likely to innovate than any other executives, regardless of holding the position of CEO or other positions in the C-suite. My findings highlight the importance of working to a holistic understanding of personal characteristics and executive decision-making.
 
 

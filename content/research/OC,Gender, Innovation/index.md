@@ -2,10 +2,10 @@
 
 
 ---
-title: "Drivers of Firm Innovation: The Role of Overconfidence and Gender in the C-Suite "
+title: "•	Tweets from the Top: CEO Overconfidence and Twitter Behavior"
 authors:
 - Chad Dulle
-date: "2023-09-04"
+date: "2024-09-04"
 weight: 2
 type: research
 abstract: 
@@ -13,6 +13,6 @@ link: "/paper2.pdf"
 ---
 <a href="/paper2.pdf"><i class="fas fa-file-pdf"></i> Download PDF</a>
 
-Prevailing research suggests that firms led by female executives tend to be more risk-averse, a characteristic often linked to reduced corporate risk-taking. Given the critical role of risk-taking in fostering innovation, it would be natural to infer that such firms may lag in innovative pursuits. Challenging this oversimplification, I analyze the overlooked dimension of overconfidence among female executives. I find that firms with a larger share of overconfident females in the C-suite are more innovative – securing more patents, earning more citations, and increasing the monetary value of their patent portfolios. This effect is accentuated in innovation-driven industries. These results underscore the need for a more nuanced approach to examining how executive personal characteristics like overconfidence intersect with gender in shaping corporate innovation. 
+We analyze firms’ and CEOs’ tweeting behavior from 2008 to 2021 and find that firms led by overconfident CEOs tweet more frequently across an array of topics – including business and finance – use more embellishment, hedge less in their statements, and engage in greater self-reference compared to firms with non-overconfident CEOs. These effects are stronger around substantive firm events that require public filings and generate abnormally high engagement. Around M&A deal announcements, abnormal deviations from an overconfident CEO’s ‘expected’ tweeting are viewed by the market as a negative signal of deal quality. Our findings suggest that overconfident CEOs appear to encourage greater public interaction with stakeholders, and the content of those interactions have the hallmarks of the firm attempting to influence public perception.
 
 
