@@ -15,7 +15,7 @@ social:
   link: 'mailto:dullecd@mail.uc.edu'
 - icon: graduation-cap
   icon_pack: fas
-  link: https://business.uc.edu/faculty-and-research/departments/finance/research/phd-students/chadwick-dulle.html
+  link: https://business.uc.edu/faculty-research/finance/faculty/phd-students/chadwick-dulle.html
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/chad-dulle-96074a235/
